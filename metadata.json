@@ -1,0 +1,6 @@
+{
+  "name": "AI Music Studio - Multi-Genre Track & Stem Composer",
+  "description": "Professional AI music composition and sound generation studio. Features multi-stem synthesis, customizable reference inputs, lyrics writing, 16-step sequencing, real-time mixing, and high-fidelity WAV exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
